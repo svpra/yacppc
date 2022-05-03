@@ -1,4 +1,4 @@
-# normal-compiler
+# c-compiler
 
 Compiler for C, written in C#
 
