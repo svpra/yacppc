@@ -1,6 +1,6 @@
 # normal-compiler
 
-C# compiler 
+Compiler for C, written in C#
 
 In plans:
 Termux install
