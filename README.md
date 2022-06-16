@@ -1,12 +1,6 @@
-# c-compiler
+# yacppc
 
-Compiler for C, written in C#
+Yet Another Compiler for C++, written in C#
 
-In plans:
-Termux install
-Parser
-Lexer
-Compiler
-Errors
 
-- writing with antlr
+- with antlr and llvm
