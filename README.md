@@ -8,5 +8,5 @@ Yet Another Compiler for C++, written in C#
 
 ### How to install?
 ```
-
+git clone https://github.com/svpra/yacppc.git
 ```
