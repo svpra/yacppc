@@ -3,7 +3,7 @@
 Yet Another Compiler for C++, written in C++
 
 
-- with antlr and llvm
+- using ANTLR and LLVM
 - you can read, how it works in [RESEARCH file](https://github.com/svpra/yacppc/blob/main/RESEARCH.md)
 
 ### How to install?
